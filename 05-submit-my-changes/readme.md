@@ -11,6 +11,7 @@ Nama Lengkap: David Winalda
 Umur: 27
 Pesan yang ingin disampaikan: Semangat untuk kamu yang disana sedang berjuang
 ```
+
 ![screenshot](https://github.com/salman-setiawan/tugas-git/blob/main/05-submit-my-changes/6.png)
 7. Masukkan file `.md` tersebut ke dalam staging area   -   **git add david-winalda.md**
 8. Commit dengan memberikan pesan nama file `.md` kamu   -   **git commit -m "david-winalda.md"**
